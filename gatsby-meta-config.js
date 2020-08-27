@@ -1,7 +1,7 @@
 module.exports = {
   title: `Seungmin's Devlog`,
   description: `Blog posted about what I learned and what I studyed`,
-  author: `[seungmin]`,
+  author: `seungmin`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
   siteUrl: `https://seungmin-dev.netlify.com`, // Your blog site url
   social: {
@@ -15,7 +15,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'seungmin-dev/devlog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
