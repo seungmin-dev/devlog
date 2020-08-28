@@ -18,8 +18,8 @@ draft: false
 졸업과제 보러가기 => https://seungmin-dev.github.io/Momontom/  
   
 <img src="img/challenge.jpg" alt="우수졸업" style="display: block; margin: 0 auto; width: 400px; height: auto;" />  
-      
-      
-      
-노마드코더의 바닐라JS 강의는 다 들어버리려고 3일동안 ***바닐라JS로 그림판 만들기*** 도 수강했다. canvas를 배우면서 '와 이건 진짜 신세계다..'했다. 코드는 미친 것 같다. 강의 듣고 구현하는 내내 계속 감탄하면서 빠져들었다. 웹 개발을 진로로 택한게 얼마나 잘한 선택인지 다시 한번 과거의 나에게 감사했다:blush:  
-`scss`도 거의 익히지 못한 백지상태라 **노마드코더 CSS Layout 챌린지**도 참가해둔 상태다. 다 흡수해버려야지:sunglasses::sunglasses: <br><br>
+
+<br>
+
+노마드코더의 바닐라JS 강의는 다 들어버리려고 3일동안 ***바닐라JS로 그림판 만들기*** 도 수강했다. canvas를 배우면서 '와 이건 진짜 신세계다..'했다. 코드는 미친 것 같다. 강의 듣고 구현하는 내내 계속 감탄하면서 빠져들었다. 웹 개발을 진로로 택한게 얼마나 잘한 선택인지 다시 한번 과거의 나 칭찬:blush:  
+`scss`도 거의 익히지 못한 백지상태라 **노마드코더 CSS Layout 챌린지**도 참가해둔 상태다. 다 흡수해버려야지:sunglasses::sunglasses:
