@@ -19,7 +19,7 @@ draft: false
   
 졸업과제 보러가기 => https://seungmin-dev.github.io/Momontom/  
   
-<img src="img/chellenge.jpg" alt="우수졸업" style="text-align: center; width: 400px; height: auto;" />    
+<img src="img/challenge.jpg" alt="우수졸업" style="text-align: center; width: 400px; height: auto;" />    
 
 ___  
 
