@@ -16,6 +16,9 @@ draft: false
 
 ### :tada: 챌린지 우수졸업    
 마지막 졸업과제 제출했을 당시에 심정은 '2주동안 고생했으니 졸업만 하자..'였다. 처음 시작할 땐 우수졸업자까지 돼봐야지! 하는 마음이었는데 마지막 과제가 내 희망에 치명타를 입혔다.:confused: 졸업자 명단이 나오던 월요일, 메일을 받고 저녁 내도록 싱글벙글했다:grin::grin:    
+  
+졸업과제 보러가기 => https://seungmin-dev.github.io/Momontom/  
+  
 <img src="img/chellenge.png" style="text-align: center; width: 400px; height: auto;" />    
 ___  
 
