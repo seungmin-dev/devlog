@@ -19,7 +19,8 @@ draft: false
   
 졸업과제 보러가기 => https://seungmin-dev.github.io/Momontom/  
   
-<img src="img/chellenge.png" style="text-align: center; width: 400px; height: auto;" />    
+<img src="img/chellenge.jpg" alt="우수졸업" style="text-align: center; width: 400px; height: auto;" />    
+
 ___  
 
 노마드코더의 바닐라JS 강의는 다 들어버리려고 3일동안 ***바닐라JS로 그림판 만들기*** 도 수강했다. canvas를 배우면서 '와 이건 진짜 신세계다..'했다. 코드는 미친 것 같다. 강의 듣고 구현하는 내내 계속 감탄하면서 빠져들었다. 웹 개발을 진로로 택한게 얼마나 잘한 선택인지 다시 한번 과거의 나에게 감사했다:blush:  
