@@ -1,5 +1,5 @@
 ---
-title: 노마드코더 바닐라JS 챌린지 5기 우수졸업
+title:  ::mortar_board:노마드코더 바닐라JS 챌린지 5기 우수졸업
 date: 2020-08-27 22:08:46
 category: seungmin
 draft: false
