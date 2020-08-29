@@ -1,9 +1,11 @@
 ---
-title: ⚛ ②react
+title: ⚛ ②react component
 date: 2020-08-29 16:08:02
 category: react.js
 draft: false
 ---
+
+> 노마드코더의 [**ReactJS로 영화 웹 서비스 만들기**](https://nomadcoders.co/react-fundamentals/lobby)를 보면서 공부 중
 
 ## Component?
 
