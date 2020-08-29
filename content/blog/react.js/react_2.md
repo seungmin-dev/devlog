@@ -1,5 +1,5 @@
 ---
-title: ⚛ ②react
+title: ⚛ ②react component
 date: 2020-08-29 16:08:02
 category: react.js
 draft: false
