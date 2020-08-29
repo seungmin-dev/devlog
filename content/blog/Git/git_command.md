@@ -1,5 +1,5 @@
 ---
-title: git의 기본 용어와 명령어 정리
+title: ⌨git의 기본 용어와 명령어 정리
 date: 2020-08-28 16:49:46
 category: Git
 draft: false
